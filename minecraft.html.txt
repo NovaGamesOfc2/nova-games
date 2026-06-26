@@ -1,116 +1,67 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nova Game - Minecraft</title>
     <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
 
 <header>
     <h1>Minecraft</h1>
-    <img src="minecraft.png" width="300">
-<p>Minecraft is an open-world game where everything is made of blocks.
-It was created by Mojang Studios and has become one of the most popular games in the world.
-In the game, players can explore, build, and survive in an infinite world.
-There are various biomes, such as forests, deserts, mountains, and oceans.
-Each biome has its own unique resources and creatures.
-
-The main mode is Survival, where you need to gather resources.
-You start with nothing and must chop wood to survive.
-After that, you craft tools, build a shelter, and face monsters.
-At night, creatures like zombies, skeletons, and Creepers appear.
-The Creeper is one of the game's most well-known enemies.
-
-There is also Creative mode, where you have infinite resources.
-In this mode, you can fly and build anything without limits.
-Many players use Creative mode to build massive cities and detailed maps.
-
-Minecraft also features Hardcore mode.
-It is similar to Survival mode but gives you only one life.
-If you die, the world is deleted or switches to spectator mode.
-This makes the game much more difficult and intense.
-
-The game also includes a crafting system.
-With it, you combine items to create tools and blocks.
-For example, wood turns into planks, and planks turn into crafting tables.
-The crafting table is essential for progressing in the game.
-
-Another important aspect is underground mines.
-There, you can find ores such as iron, gold, coal, and diamond.
-Diamond is one of the most valuable resources in the game.
-It allows you to craft very powerful equipment.
-
-Minecraft also features Redstone.
-Redstone functions like electricity within the game.
-With it, you can create automatic doors, machines, and complex systems.
-Advanced players even build computers inside the game.
-
-There are bosses in Minecraft.
-The most well-known is the Ender Dragon.
-It lives in a dimension called The End.
-To get there, you need to find special portals. Defeating the Ender Dragon is considered beating the game.
-Here at Nova Games, you can find Minecraft to download and install below.</p>
+    <img src="minecraft.png" width="300" alt="Minecraft Logo">
+    <p>Minecraft is an open-world game where everything is made of blocks. It was created by Mojang Studios and has become one of the most popular games in the world. In the game, players can explore, build, and survive in an infinite world. There are various biomes, such as forests, deserts, mountains, and oceans. Each biome has its own unique resources and creatures.</p>
+    <p>The main mode is Survival, where you need to gather resources. You start with nothing and must chop wood to survive. After that, you craft tools, build a shelter, and face monsters. At night, creatures like zombies, skeletons, and Creepers appear. The Creeper is one of the game's most well-known enemies.</p>
+    <p>There is also Creative mode, where you have infinite resources. In this mode, you can fly and build anything without limits. Many players use Creative mode to build massive cities and detailed maps.</p>
+    <p>Minecraft also features Hardcore mode. It is similar to Survival mode but gives you only one life. If you die, the world is deleted or switches to spectator mode. This makes the game much more difficult and intense.</p>
+    <p>The game also includes a crafting system. With it, you combine items to create tools and blocks. For example, wood turns into planks, and planks turn into crafting tables. The crafting table is essential for progressing in the game.</p>
+    <p>Another important aspect is underground mines. There, you can find ores such as iron, gold, coal, and diamond. Diamond is one of the most valuable resources in the game. It allows you to craft very powerful equipment.</p>
+    <p>Minecraft also features Redstone. Redstone functions like electricity within the game. With it, you can create automatic doors, machines, and complex systems. Advanced players even build computers inside the game.</p>
+    <p>There are bosses in Minecraft. The most well-known is the Ender Dragon. It lives in a dimension called The End. To get there, you need to find special portals. Defeating the Ender Dragon is considered beating the game. Here at Nova Games, you can find Minecraft to download and install below.</p>
 </header>
 
 <main>
-
     <div class="jogo">
-     <img src="minecraft.png" width="300">
-   <h3>Minecraft</h3>
-        <p>Minecraft is an incredibly popular sandbox video game created by Markus Persson.It was developed by Mojang Studios and officially released in late 2011.The game allows players to build with a variety of different blocks.Players explore a virtually infinite, procedurally generated three-dimensional world.They can discover and extract raw materials, craft tools, and build structures.Depending on the chosen game mode, players can fight computer-controlled mobs.They can also cooperate with or compete against other players in multiplayer.These modes include survival, where players must acquire resources to build.There is also a creative mode, where players have unlimited resources available.In creative mode, players can fly freely to build massive artistic structures.The game's signature blocky aesthetic has become a global cultural icon.It encourages players to use their imagination and logical thinking skills.Redstone circuits allow players to build complex mechanical devices and computers.The game receives frequent updates that add new biomes, animals, and blocks.It is available across almost every major platform, console, and device.This widespread availability includes PCs, smartphones, tablets, and gaming consoles.The Java Edition remains a favorite for players who love installing mods.Meanwhile, the Bedrock Edition allows seamless cross-platform play between different systems.The game has sold over three hundred million copies worldwide so far.This historic milestone officially makes it the best-selling video game ever.It is widely used in educational environments to teach chemistry and coding.The game has inspired a massive community of content creators on YouTube.Streamers and influencers share their survival series and speedruns daily.Spin-off games like Minecraft Dungeons and Legends have expanded the franchise.An official movie adaptation has also been created for worldwide fans.The game has no set path or definitive way to win, offering total freedom.Players can spend thousands of hours exploring underground caves and ancient cities.They can travel to other dimensions like the Nether and the dangerous End.Defeating the Ender Dragon serves as the ultimate challenge for survival players.Ultimately, Minecraft is a timeless digital canvas that unites millions worldwide.</p>
-<a href="https://4br.me/Po3arPCvm">
-       <button class="download">
-    <img src="download.png"> Download
-</button>
-</a>
-</div>
+        <img src="minecraft.png" width="300" alt="Minecraft">
+        <h3>Minecraft</h3>
+        <p>Minecraft is an incredibly popular sandbox video game created by Markus Persson. It was developed by Mojang Studios and officially released in late 2011. The game allows players to build with a variety of different blocks. Players explore a virtually infinite, procedurally generated three-dimensional world. They can discover and extract raw materials, craft tools, and build structures. Depending on the chosen game mode, players can fight computer-controlled mobs.</p>
+        <a href="https://4br.me" target="_blank">
+            <button class="download">
+                <img src="download.png" alt="Download"> Download
+            </button>
+        </a>
+    </div>
     
-<div class="jogo">
-       <img src="patched.png" width="300">
- <h3>Minecraft Patched</h3>
-        <p>Minecraft Patched refers to a customized installation file of the Bedrock Edition.This unique version is specifically modified by the community for Android devices.Its primary purpose is to bypass visual restrictions enforced by Mojang.In recent years, Mojang introduced a new graphics engine named RenderDragon.This engine upgrade completely blocked traditional custom shaders from working.Players could no longer easily enhance their mobile worlds with realistic lighting.To solve this issue, independent developers found a way to patch the APK.They modify the original game package to reactivate advanced graphical options.This is achieved by injecting specific external tools directly into the code.Scripts like MaterialBinLoader or Draco Injector are used during this process.These tools modify how the RenderDragon engine processes third-party materials.As a result, players can enjoy moving leaves, realistic water, and clouds.Shadows and ambient occlusion are also successfully restored through these patches.These altered versions are usually distributed on platforms like GitHub and Discord.They are strictly community-driven projects and not officially supported by Mojang.Users must choose the correct architecture file for their specific smartphone.The downloads are usually split into arm32 or arm64 processor variants.Installing the wrong architecture will cause the application to crash immediately.Gamers often use these builds to record high-quality gameplay for YouTube.It allows mobile content creators to match the visual quality of PC players.However, using modified files carries certain risks regarding security and bans.Downloading files from untrusted sources might compromise personal data on devices.Multiplayer compatibility can also be limited depending on the patch version.Certain public servers might block connection from modified client applications.Xbox Live achievements might not track properly while using this client.Despite these minor drawbacks, the patched community remains incredibly active online.They constantly update the toolsets whenever Mojang releases a new update.It represents a massive effort by fans to keep visual customization alive.For many, it is the only way to experience beautiful mobile graphics.Ultimately, Minecraft Patched bridges the gap between hardware power and aesthetics.</p>
-<a href="https://4br.me/GikrEsUw">
-        <button class="download">
-    <img src="download.png"> Download
-</button>
-    </a>
-</div>
+    <div class="jogo">
+        <img src="patched.png" width="300" alt="Minecraft Patched">
+        <h3>Minecraft Patched</h3>
+        <p>Minecraft Patched refers to a customized installation file of the Bedrock Edition. This unique version is specifically modified by the community for Android devices. Its primary purpose is to bypass visual restrictions enforced by Mojang. In recent years, Mojang introduced a new graphics engine named RenderDragon. This engine upgrade completely blocked traditional custom shaders from working.</p>
+        <a href="https://4br.me" target="_blank">
+            <button class="download">
+                <img src="download.png" alt="Download"> Download
+            </button>
+        </a>
+    </div>
 
-<div class="tutorial">
-    <h2>How to get past the link shortener</h2>
-
-    <p>Follow the step-by-step instructions in the video below.</p>
-
-    <iframe 
-        src="https://www.youtube.com/embed/42CUl60_7og"
-        title="YouTube video player"
-        frameborder="0"
-        allowfullscreen>
-    </iframe>
-</div>
-</div>
+    <div class="tutorial">
+        <h2>How to get past the link shortener</h2>
+        <p>Follow the step-by-step instructions in the video below.</p>
+        <iframe 
+            src="https://youtube.com"
+            title="YouTube video player"
+            style="border:0;"
+            allowfullscreen>
+        </iframe>
+    </div>
 </main>
-
-</body>
-
-</html>
 
 <footer>
     <div class="footer-social">
         <h3>Social Media</h3>
-
-        <p class="instagram">
-            <img src="instagram.png"> Instagram
-        </p>
-
-        <p class="tiktok">
-    <img src="tiktok.png"> Tik Tok
-</p>
-        <p class="youtube">
-    <img src="youtube.png"> YouTube
-</p>
+        <p class="instagram"><img src="instagram.png" alt="Instagram"> Instagram</p>
+        <p class="tiktok"><img src="tiktok.png" alt="TikTok"> Tik Tok</p>
+        <p class="youtube"><img src="youtube.png" alt="YouTube"> YouTube</p>
     </div>
 
     <div class="footer-contact">
@@ -118,3 +69,6 @@ Here at Nova Games, you can find Minecraft to download and install below.</p>
         <p>novagamesparacontato@gmail.com</p>
     </div>
 </footer>
+
+</body>
+</html>
