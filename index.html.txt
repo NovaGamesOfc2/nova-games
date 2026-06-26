@@ -42,7 +42,7 @@ The Minecraft community is constantly creating new content to keep the game aliv
 Here, you can find some special Minecraft versions and projects.
 </p>
 
-        <a href="Minecraft.html">
+        <a href="minecraft.html">
             <button>View Mods</button>
         </a>
     </div>
