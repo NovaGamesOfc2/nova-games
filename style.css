@@ -201,10 +201,7 @@ footer p {
         flex-direction: column;
         gap: 20px;
     }
-
-    .tutorial iframe {
-        height: 220px;
-    }
+    
 
     button {
         width: 100%;
