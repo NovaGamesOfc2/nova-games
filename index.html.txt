@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nova Games</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <img src="NG.png.png" alt="Nova Games" width="250">
+    <p>Nova Games is a place designed for players who enjoy discovering new versions and unique experiences based on their favorite games.
+
+Here, you’ll find fan-made versions, special projects, and content that breathes new life into well-known titles.
+
+The idea behind Nova Games is to bring everything together in a simple, organized way, making it easy to find new ways to play.
+
+The site was created by Brazilian guy with the goal of providing a space where the community can discover and enjoy a variety of projects.
+
+This is just the beginning for Nova Games; new games, pages, and updates are on the way.
+
+Social media coming soon.
+</p>
+</header>
+
+<main>
+    <h2>Games</h2>
+
+    <div class="jogo">
+      <img src="minecraft.png" width="300">
+  <h3>Minecraft</h3>
+        <p>Minecraft is a game known for its freedom and the infinite possibilities it offers.
+
+Over time, the community has created various modified versions and different projects to bring new experiences to players.
+
+These versions can add new features, improve gameplay, or completely change how the blocky world is explored.
+
+Each fan-created project brings its own unique ideas, ranging from visual enhancements to new ways to play.
+
+The Minecraft community is constantly creating new content to keep the game alive and full of possibilities.
+
+Here, you can find some special Minecraft versions and projects.
+</p>
+
+        <a href="Minecraft.html">
+            <button>View Mods</button>
+        </a>
+    </div>
+
+    <div class="jogo">
+        <img src="pvz.png.png" width="300">
+
+        <h3>Plants vs Zombies mods</h3>
+        <p>Plants vs. Zombies is a game known for its creativity, strategy, and fun battles between plants and zombies.
+
+Over the years, fans of the franchise have started creating their own modified versions of the game.
+
+These versions introduce new plants, new zombies, different mechanics, and unique challenges.
+
+Some modifications aim to enhance the original experience by adding content players have always wanted to see.
+
+Others create a completely new experience, changing the way the game is played.
+
+Versions like PvZ Fusion, PvZ Reflourished, and other community creations showcase the fans' creativity.
+
+Each project features its own unique ideas and characteristics.
+
+Some versions focus on deeper strategy, while others introduce new ways to combine plants and take on enemies.
+
+These creations preserve the essence of Plants vs. Zombies while offering something fresh for both longtime and new players.
+
+The fan community continues to create diverse experiences for those looking to return to the garden and face new battles.
+
+Here, you can find some of the most well-known modified versions of Plants vs. Zombies.
+
+Choose your favorite version, ready your plants, and take on the zombies!
+</p>
+
+        <a href="pvz.html">
+            <button>View Mods</button>
+        </a>
+    </div>
+
+</main>
+
+<footer>
+    <div class="footer-social">
+        <h3>Social Media</h3>
+
+        <p class="instagram">
+            <img src="instagram.png"> Instagram
+        </p>
+
+        <p class="tiktok">
+    <img src="tiktok.png"> Tik Tok
+</p>
+        <p class="youtube">
+    <img src="youtube.png"> YouTube
+</p>
+    </div>
+
+    <div class="footer-contact">
+        <h3>Contact us!</h3>
+        <p>novagamesparacontato@gmail.com</p>
+    </div>
+</footer>
