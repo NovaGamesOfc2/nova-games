@@ -15,9 +15,15 @@ body {
 
 header {
     background-color: rgba(0, 0, 0, 0.7);
-  backdrop-filter: blur(10px);
-  padding: 30px;
+    backdrop-filter: blur(10px);
+    padding: 30px;
     text-align: center;
+}
+
+header p {
+    max-width: 800px;
+    margin: 15px auto;
+    line-height: 1.6;
 }
 
 h1 {
@@ -53,6 +59,12 @@ h2 {
     color: white;
 }
 
+.jogo p {
+    line-height: 1.5;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
 .jogo img {
     max-width: 100%;
     border-radius: 10px;
@@ -72,7 +84,6 @@ button {
     font-size: 16px;
     font-family: "Fonte", sans-serif;
     transition: 0.3s;
-    
     background: linear-gradient(45deg, #006400, #32CD32);
 }
 
@@ -88,11 +99,6 @@ button img {
     margin-right: 5px;
 }
 
-button:hover {
-    transform: scale(1.1);
-box-shadow: 0 0 15px #32CD32;
-}
-
 footer {
     background-color: #000000;
     color: white;
@@ -101,7 +107,9 @@ footer {
     font-family: "Fonte", sans-serif;
     display: flex;
     justify-content: space-between;
-    text-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
 }
 
 footer h3 {
@@ -113,50 +121,34 @@ footer p {
     color: white;
 }
 
-.instagram {
+/* Ajuste de segurança para gradiente nos textos sociais */
+.instagram, .tiktok, .youtube {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 5px;
-
-    background: linear-gradient(45deg, #feda75, #d62976, #962fbf, #4f5bd5);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    font-weight: bold;
 }
 
-.instagram img {
-    width: 16px;
-    height: 16px;
+.instagram {
+    background: linear-gradient(45deg, #feda75, #d62976, #962fbf, #4f5bd5);
+    -webkit-background-clip: text;
+    background-clip: text;
 }
 
 .tiktok {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 5px;
-
     background: linear-gradient(45deg, #ffffff, #ff0050, #00f2ea);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-
-.tiktok img {
-    width: 16px;
-    height: 16px;
+    background-clip: text;
 }
 
 .youtube {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 5px;
-
     background: linear-gradient(45deg, #ff0000, #ffffff, #ff4d4d);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    background-clip: text;
 }
 
-.youtube img {
+.instagram img, .tiktok img, .youtube img {
     width: 16px;
     height: 16px;
 }
